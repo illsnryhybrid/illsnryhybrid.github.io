@@ -5,44 +5,44 @@ order: 4
 ---
 
 # Kristopher Italiano
-Senior Infrastructure Engineer at 1st Infantry Division | [cite_start]Fort Riley, Kansas, United States [cite: 13, 14]
+Senior Infrastructure Engineer at 1st Infantry Division | Fort Riley, Kansas, United States
 
 ---
 
 ## Contact
-* [cite_start]**Email**: illsnryhybrid@gmail.com [cite: 2]
-* [cite_start]**LinkedIn**: [linkedin.com/in/kristopher-italiano-07a265377](https://www.linkedin.com/in/kristopher-italiano-07a265377) [cite: 3, 4]
+* **Email**: illsnryhybrid@gmail.com
+* **LinkedIn**: [linkedin.com/in/kristopher-italiano-07a265377](https://www.linkedin.com/in/kristopher-italiano-07a265377)
 
 ---
 
 ## Top Skills
-* [cite_start]Linux System Administration [cite: 6]
-* [cite_start]Cybersecurity [cite: 7]
-* [cite_start]Elastic Stack (ELK) [cite: 8]
+* Linux System Administration
+* Cybersecurity
+* Elastic Stack (ELK)
 
 ---
 
 ## Certifications
-* [cite_start]CompTIA Security+ [cite: 10]
-* [cite_start]CompTIA Cybersecurity Analyst (CySA+) [cite: 11]
-* [cite_start]CompTIA Linux+ [cite: 12]
+* CompTIA Security+
+* CompTIA Cybersecurity Analyst (CySA+)
+* CompTIA Linux+
 
 ---
 
 ## Experience
 
 ### Senior Infrastructure Engineer
-[cite_start]**1st Infantry Division** [cite: 16, 18]
-[cite_start]*Fort Riley, Kansas, United States* [cite: 20]
-[cite_start]*February 2025 - Present* [cite: 19]
+**1st Infantry Division**
+*Fort Riley, Kansas, United States*
+*February 2025 - Present*
 
 * Responsibility or accomplishment 1.
 * Responsibility or accomplishment 2.
 
 ### Chief Information Security Officer
-[cite_start]**1st Infantry Division** [cite: 16, 21]
-[cite_start]*Fort Riley, Kansas, United States* [cite: 22]
-[cite_start]*July 2023 - February 2025* [cite: 22]
+**1st Infantry Division**
+*Fort Riley, Kansas, United States* 
+*July 2023 - February 2025*
 
 * Responsibility or accomplishment 1.
 * Responsibility or accomplishment 2.
@@ -52,5 +52,5 @@ Senior Infrastructure Engineer at 1st Infantry Division | [cite_start]Fort Riley
 ## Education
 
 ### La Roche University
-[cite_start]**Bachelor of Science - BS, National Security** [cite: 24, 25]
-[cite_start]*August 2011 - May 2013* [cite: 25]
+**Bachelor of Science - BS, National Security**
+*August 2011 - May 2013*
