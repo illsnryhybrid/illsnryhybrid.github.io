@@ -37,7 +37,6 @@ Senior Infrastructure Engineer at 1st Infantry Division | Fort Riley, Kansas, Un
 *February 2025 - Present*
 
 * Responsibility or accomplishment 1.
-* Responsibility or accomplishment 2.
 
 ### Chief Information Security Officer
 **1st Infantry Division**
