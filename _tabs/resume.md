@@ -34,7 +34,7 @@ Senior Infrastructure Engineer at 1st Infantry Division | Fort Riley, Kansas, Un
 ### Senior Infrastructure Engineer
 **1st Infantry Division**
 *Fort Riley, Kansas, United States*
-*February 2025 - Present*
+*February 2025 - October 2025*
 
 * Responsibility or accomplishment 1.
 
