@@ -21,9 +21,30 @@ Senior Infrastructure Engineer and Chief of Network Operations with two decades 
 ---
 
 ## Top Skills
-* Linux System Administration
-* Cybersecurity
-* Elastic Stack (ELK)
+
+<div class="row">
+  <div class="col-12 col-md-4">
+    <ul>
+      <li>Enterprise Architecture</li>
+      <li>Enterprise Virtualization</li>
+      <li>High Availability</li>
+    </ul>
+  </div>
+  <div class="col-12 col-md-4">
+    <ul>
+      <li>Linux System Administration</li>
+      <li>Active Directory</li>
+      <li>Network Operations</li>
+    </ul>
+  </div>
+  <div class="col-12 col-md-4">
+    <ul>
+      <li>Cybersecurity</li>
+      <li>Incident Response</li>
+      <li>Elastic Stack (ELK)</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
