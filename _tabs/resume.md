@@ -15,6 +15,11 @@ Chief of Network Operations at 1st Cavalry Division \| Fort Hood, Texas, United 
 
 ---
 
+## Professional Summary
+Senior Infrastructure Engineer and Chief of Network Operations with two decades of experience in national security, including an active TS/SCI clearance since 2006. Proven record of leading enterprise network operations, achieving top-tier cybersecurity readiness, and modernizing infrastructure through enterprise virtualization and directory consolidation. Skilled at building resilient, highly available systems that keep mission-critical operations running anywhere in the world.
+
+---
+
 ## Top Skills
 * Linux System Administration
 * Cybersecurity
@@ -23,6 +28,7 @@ Chief of Network Operations at 1st Cavalry Division \| Fort Hood, Texas, United 
 ---
 
 ## Certifications
+* **Top Secret / SCI (TS/SCI) Clearance – Active since 2006**
 * CompTIA Security+
 * CompTIA Cybersecurity Analyst (CySA+)
 * CompTIA Linux+
@@ -34,14 +40,15 @@ Chief of Network Operations at 1st Cavalry Division \| Fort Hood, Texas, United 
 ### Chief of Network Operations
 **1st Cavalry Division** \| Fort Hood, Texas, United States \| *December 2025 – Present*
 
-* Manage network and server infrastructure, on-premises service reliability, and divisional network cybersecurity.
+* Lead a 36-person team (including 2 contractors) managing network and server infrastructure across 197 network nodes and hundreds of endpoints, ensuring on-premises service reliability and divisional network cybersecurity.
 * Integrated the Army's latest network infrastructure architecture.
 * Engineered the division's consolidation of 8 Active Directory domains into a unified forest.
 
 ### Senior Infrastructure Engineer
 **1st Infantry Division** \| Fort Riley, Kansas, United States \| *February 2025 – October 2025*
 
-* Responsibility or accomplishment 1.
+* Virtualized a mission-critical operations platform end-to-end, decoupling users from dedicated hardware so any role could be performed from any workstation worldwide, ensuring business continuity through network outages and rapid site relocations.
+* Redesigned the management network to enable system administrators to remotely resolve trouble tickets anywhere in the enterprise.
 
 ### Chief Information Security Officer
 **1st Infantry Division** \| Fort Riley, Kansas, United States \| *July 2023 – February 2025*
